@@ -1,0 +1,6 @@
+Name=input("enter your name")
+Age=input("enter your age")
+Height=input("enter height")
+Hobby=input("enter your hobby")
+Job=("Software Engineer")
+print(f"Hi my name is {Name}. I am {Age} years old. I work as a {Job}. My hobby is {Hobby}.")
